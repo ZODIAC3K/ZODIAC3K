@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/harshdeepanshuzodiac3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshdeepanshuzodiac3k" height="30" width="40" /></a>
 <a href="https://fb.com/harshdeepanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshdeepanshu" height="30" width="40" /></a>
 <a href="https://instagram.com/harshdeepanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshdeepanshu" height="30" width="40" /></a>
-<a href="https://discord.gg/ZODIAC#9495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZODIAC#9495" height="30" width="40" /></a>
+<a href="https://discord.gg/ecAjCK8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ecAjCK8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
