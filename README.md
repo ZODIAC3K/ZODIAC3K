@@ -1,6 +1,5 @@
 # 💫 About Me:
-As an enthusiastic engineering student, I possess basic coding and design skills, with proficiency in several programming languages and technologies, including C++, HTML5, CSS, TailwindCSS, JavaScript, Bootstrap, React, Node, Next.js, Express, and Python. My aptitude for quickly learning new software and technologies enables me to adapt to changing environments and stay current with the latest trends in the industry. I am a collaborative team player who provides valuable support and offers out-of-the-box thinking to solve complex problems. With a commitment to professionalism and continuous improvement, I strive to contribute to the success of any project or team I am a part of.
-
+Full-stack developer diving into DevOps, crafting sleek UIs, and building scalable backends. Always optimizing, always learning—let’s ship something cool! 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zodiac9495) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HarshDeepanshu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshdeepanshu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshdeepanshuzodiac3k)
